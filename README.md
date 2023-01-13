@@ -8,6 +8,7 @@
 ## How to use
 ```javascript 
 const { Canvas } = window.diep_Shortcut.core
+Canvas.GUI_...
 ```
   
 ## GUI_create
