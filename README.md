@@ -7,7 +7,8 @@
   
 ## How to use
 ```javascript 
-  const { Canvas } = window.diep_Shortcut.core ```
+const { Canvas } = window.diep_Shortcut.core
+```
   
 ## GUI_create
 <p>-The GUI_create function allows you to create a button element on your webpage. It takes the following parameters:
