@@ -4,7 +4,11 @@
 
 ## Installation
 <p>-To use same-Tank, // @require https://greasyfork.org/scripts/456843-diep-shortcut/code/diep_Shortcut.js?version=1138235
-
+  
+## How to use
+```javascript 
+  const { Canvas } = window.diep_Shortcut.core ```
+  
 ## GUI_create
 <p>-The GUI_create function allows you to create a button element on your webpage. It takes the following parameters:
 
